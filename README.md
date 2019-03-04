@@ -1,6 +1,6 @@
 # WallE
 
-WallE is a Mastodon bot that currently underway to toot ESPN's Top 10 Soccer headlines.
+WallE is a Mastodon bot that is currently underway to toot ESPN's Top 10 Soccer headlines.
 
 ## WallE's Goals
 
